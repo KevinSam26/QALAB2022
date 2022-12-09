@@ -1,3 +1,8 @@
+/*----------------------------------------/
+/
+/ Editado por Kevin Daniel Taboada Rafael
+/
+/---------------------------------------*/
 public class Main {
     public static void main(String[] args) {
 
